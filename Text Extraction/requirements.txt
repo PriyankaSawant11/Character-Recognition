@@ -1,0 +1,5 @@
+opencv-python-headless==4.8.0.76
+pytesseract==0.3.7
+numpy==1.19.3
+flask==2.2.5
+Pillow==8.0.1
